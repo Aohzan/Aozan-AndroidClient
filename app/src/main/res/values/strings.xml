@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aozan</string>
+    <string name="titleList">Listes</string>
+    <string name="newListInput">Nouveau</string>
+    <string name="newListButton">Ajouter</string>
+    <string name="newElementInput">Nouveau</string>
+    <string name="newElementButton">Ajouter</string>
+</resources>

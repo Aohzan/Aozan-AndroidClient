@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aozan</string>
+    <string name="titleList">Lists</string>
+    <string name="newList">New</string>
+    <string name="newListButton">Add</string>
+    <string name="newListInput">New</string>
+    <string name="newElementButton">Add</string>
+    <string name="newElementInput">New</string>
+</resources>
